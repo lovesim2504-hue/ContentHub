@@ -1,0 +1,662 @@
+[31-Oct-2025 19:24:21 Europe/Berlin] Database error: Duplicate entry '107' for key 'catid'
+[31-Oct-2025 19:25:06 Europe/Berlin] Database error: Duplicate entry '107' for key 'catid'
+[31-Oct-2025 19:25:14 Europe/Berlin] Database error: Duplicate entry '107' for key 'catid'
+[31-Oct-2025 19:27:31 Europe/Berlin] Database error: Duplicate entry '107' for key 'catid'
+[31-Oct-2025 19:27:39 Europe/Berlin] Database error: Duplicate entry '107' for key 'catid'
+[31-Oct-2025 19:28:51 Europe/Berlin] Database error: Duplicate entry '107' for key 'catid'
+[31-Oct-2025 19:34:55 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 't be surprised (or scared) to see coal tar as an ingredient in your shampoo b...' at line 2
+[31-Oct-2025 19:41:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\blogssubcat.php on line 64
+[31-Oct-2025 19:42:26 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\blogssubcat.php on line 63
+[31-Oct-2025 19:42:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\blogssubcat.php on line 63
+[31-Oct-2025 19:42:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\blogssubcat.php on line 63
+[31-Oct-2025 19:42:27 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\blogssubcat.php on line 63
+[31-Oct-2025 19:42:28 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\blogssubcat.php on line 63
+[31-Oct-2025 19:59:28 Europe/Berlin] Database error: Unknown column 'fulldescription' in 'field list'
+[31-Oct-2025 20:03:59 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:03:59 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:15:19 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:15:42 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:38 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:39 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:40 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:40 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:40 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:40 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:41 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:41 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:17:41 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:19:59 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:20:00 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:20:19 Europe/Berlin] Database error: Unknown column 'name' in 'field list'
+[31-Oct-2025 20:22:42 Europe/Berlin] Database error: Unknown column 'name' in 'field list'
+[31-Oct-2025 20:23:09 Europe/Berlin] Database error: Unknown column 'name' in 'field list'
+[31-Oct-2025 20:23:35 Europe/Berlin] Database error: Unknown column 'name' in 'field list'
+[31-Oct-2025 20:23:50 Europe/Berlin] Database error: Unknown column 'fulldescription' in 'field list'
+[31-Oct-2025 20:23:57 Europe/Berlin] Database error: Unknown column 'name' in 'field list'
+[31-Oct-2025 20:25:56 Europe/Berlin] Database error: Unknown column 'fulldescription' in 'field list'
+[31-Oct-2025 20:27:54 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:27:54 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:27:59 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:27:59 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:28:06 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:28:06 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:33:45 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:33:45 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:34:29 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:34:29 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:34:33 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:34:37 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:43:48 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:43:48 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:43:54 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:47:18 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:47:18 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 76
+[31-Oct-2025 20:47:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\managesingleblogs.php:76
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 76
+[31-Oct-2025 20:48:27 Europe/Berlin] PHP Warning:  Undefined variable $rate in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 41
+[31-Oct-2025 20:48:27 Europe/Berlin] PHP Warning:  Undefined variable $dis in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 41
+[31-Oct-2025 20:48:27 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:48:27 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 77
+[31-Oct-2025 20:48:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\managesingleblogs.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 77
+[31-Oct-2025 20:49:35 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:49:35 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 76
+[31-Oct-2025 20:49:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\managesingleblogs.php:76
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 76
+[31-Oct-2025 20:51:26 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:51:45 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:52:37 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:52:54 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:53:14 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:53:14 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:53:59 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:53:59 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:55:59 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:57:31 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:57:31 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:57:45 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:57:49 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[31-Oct-2025 20:59:43 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[31-Oct-2025 20:59:45 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 02:46:19 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 02:48:55 Europe/Berlin] PHP Warning:  Undefined array key "pid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[01-Nov-2025 02:48:55 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[01-Nov-2025 02:48:55 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:48:55 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:49:53 Europe/Berlin] PHP Warning:  Undefined array key "pid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[01-Nov-2025 02:49:53 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[01-Nov-2025 02:49:53 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:49:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:49:54 Europe/Berlin] PHP Warning:  Undefined array key "pid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[01-Nov-2025 02:49:54 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[01-Nov-2025 02:49:54 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:49:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:49:57 Europe/Berlin] PHP Warning:  Undefined array key "pid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[01-Nov-2025 02:49:57 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[01-Nov-2025 02:49:57 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:49:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:50:06 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 02:50:15 Europe/Berlin] PHP Warning:  Undefined array key "pid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[01-Nov-2025 02:50:15 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[01-Nov-2025 02:50:15 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:50:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\details.php on line 105
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $pid in C:\xampp\htdocs\loveproj\details.php on line 12
+[01-Nov-2025 02:51:09 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[01-Nov-2025 02:51:09 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[01-Nov-2025 02:52:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[01-Nov-2025 02:52:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 148
+[01-Nov-2025 02:52:25 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 148
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 02:53:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:03 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:04 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:05 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:19 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:17:29 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 145
+[01-Nov-2025 04:24:14 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:25:21 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:25:22 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:25:22 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:25:22 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:26:37 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:26:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:26:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:26:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:26:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:40:37 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:44:47 Europe/Berlin] Database error: Invalid or missing 'scid' parameter. Please provide a valid subcategory ID in the URL (e.g., ?scid=123).
+[01-Nov-2025 04:45:46 Europe/Berlin] Database error: Invalid or missing 'scid' parameter. Please provide a valid subcategory ID in the URL (e.g., ?scid=123).
+[01-Nov-2025 04:47:06 Europe/Berlin] Database error: Invalid or missing 'scid' parameter. Please provide a valid subcategory ID in the URL (e.g., ?scid=123).
+[01-Nov-2025 04:47:07 Europe/Berlin] Database error: Invalid or missing 'scid' parameter. Please provide a valid subcategory ID in the URL (e.g., ?scid=123).
+[01-Nov-2025 04:47:07 Europe/Berlin] Database error: Invalid or missing 'scid' parameter. Please provide a valid subcategory ID in the URL (e.g., ?scid=123).
+[01-Nov-2025 04:47:09 Europe/Berlin] Database error: Invalid or missing 'scid' parameter. Please provide a valid subcategory ID in the URL (e.g., ?scid=123).
+[01-Nov-2025 04:48:46 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:52:18 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:52:19 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:52:19 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:52:20 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:53:13 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:53:13 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:53:21 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:55:53 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:55:57 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:55:58 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:55:59 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:55:59 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:55:59 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:56:00 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:56:00 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:56:00 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:56:00 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:57:20 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[01-Nov-2025 04:57:20 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:13:35 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:22:54 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:26:27 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:26:30 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:26:56 Europe/Berlin] PHP Warning:  Undefined variable $scid in C:\xampp\htdocs\loveproj\singleblog.php on line 34
+[02-Nov-2025 09:37:24 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:37:24 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '=' at line 1
+[02-Nov-2025 09:42:34 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:34 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:34 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:34 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:34 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:34 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:35 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:35 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:35 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:35 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:35 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:35 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:35 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:35 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:36 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:36 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:42:36 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:42:36 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:46:39 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:46:39 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:46:40 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:46:40 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:46:40 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:46:40 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:46:43 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:46:43 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:46:47 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:46:47 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:47:39 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:47:39 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:47:40 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:47:40 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:47:40 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:47:40 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:47:41 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:47:41 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:47:41 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:47:41 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:47:43 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:47:43 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:47:49 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:47:49 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:48:10 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:48:10 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:48:44 Europe/Berlin] PHP Warning:  Undefined array key "sid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:48:44 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:48:44 Europe/Berlin] PHP Warning:  Undefined array key "sid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:48:44 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:48:45 Europe/Berlin] PHP Warning:  Undefined array key "sid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:48:45 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:48:45 Europe/Berlin] PHP Warning:  Undefined array key "sid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:48:45 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:37 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:37 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:37 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:37 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:38 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:38 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:38 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:38 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:38 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:38 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:38 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:49 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:49 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:49 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:49 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:49 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:49 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:50 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:50 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:50 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:50 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:49:50 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:49:50 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:50:09 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:50:09 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:50:09 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:50:09 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:50:10 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:50:10 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:50:10 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:50:10 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:50:10 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:50:10 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:50:10 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:50:10 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:50:12 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:50:12 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:51:59 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:51:59 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:52:50 Europe/Berlin] PHP Warning:  Undefined array key "subcatid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:52:50 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:53:02 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:53:02 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:53:02 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:53:02 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:53:03 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:53:03 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+[02-Nov-2025 09:54:06 Europe/Berlin] PHP Warning:  Undefined variable $scid in C:\xampp\htdocs\loveproj\singleblog.php on line 34
+[02-Nov-2025 09:54:14 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:54:15 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:54:15 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:14 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:14 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:15 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:15 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:15 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:15 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:15 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:15 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:15 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:15 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:18 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:18 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:20 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:20 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:28 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 09:55:28 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:46 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 29
+[02-Nov-2025 09:55:46 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:47 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 29
+[02-Nov-2025 09:55:47 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:55:47 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 29
+[02-Nov-2025 09:55:47 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:59:02 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 10
+[02-Nov-2025 09:59:02 Europe/Berlin] PHP Warning:  Undefined variable $pid in C:\xampp\htdocs\loveproj\singleblog.php on line 12
+[02-Nov-2025 09:59:02 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\singleblog.php on line 62
+[02-Nov-2025 09:59:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\singleblog.php:62
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\singleblog.php on line 62
+[02-Nov-2025 09:59:51 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:59:51 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 09:59:58 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 10:00:33 Europe/Berlin] PHP Warning:  Undefined array key "scid" in C:\xampp\htdocs\loveproj\singleblog.php on line 32
+[02-Nov-2025 10:00:33 Europe/Berlin] Database error: Unknown column 'subcatid' in 'where clause'
+[02-Nov-2025 12:30:04 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[02-Nov-2025 12:30:04 Europe/Berlin] PHP Warning:  require_once(includes/headlink.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\loveproj\details.php on line 105
+[02-Nov-2025 12:30:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/headlink.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\loveproj\details.php:105
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\loveproj\details.php on line 105
+[02-Nov-2025 12:30:21 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 12:30:21 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:03:03 Europe/Berlin] PHP Warning:  Undefined variable $date in C:\xampp\htdocs\loveproj\managesingleblogs.php on line 40
+[02-Nov-2025 13:03:03 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:03:33 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:03:44 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:03:56 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:05:03 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:06:29 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:06:34 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:06:49 Europe/Berlin] Database error: Column count doesn't match value count at row 1
+[02-Nov-2025 13:24:31 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:24:31 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:30:06 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:30:06 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:30:15 Europe/Berlin] Database error: Table 'database.product' doesn't exist
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:30:15 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:30:56 Europe/Berlin] Database error: Unknown column 'productid' in 'where clause'
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:30:56 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined array key "bid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[02-Nov-2025 13:32:01 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:32:01 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined array key "blogid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[02-Nov-2025 13:32:14 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 120
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 121
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 142
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 146
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 147
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 149
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:32:14 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 152
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined array key "blogid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[02-Nov-2025 13:34:57 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 73
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 73
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 94
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 94
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 99
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 99
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 101
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 101
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 104
+[02-Nov-2025 13:34:57 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 104
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined array key "blogid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[02-Nov-2025 13:34:58 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 73
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 73
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 94
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 94
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 99
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 99
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 101
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 101
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 104
+[02-Nov-2025 13:34:58 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 104
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined array key "blogid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[02-Nov-2025 13:37:02 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 71
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 71
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 93
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 93
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 97
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 100
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 100
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 103
+[02-Nov-2025 13:37:02 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 103
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined array key "blogid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[02-Nov-2025 13:37:37 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 71
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 71
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 93
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 93
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 97
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 100
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 100
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 103
+[02-Nov-2025 13:37:37 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 103
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined array key "blogid" in C:\xampp\htdocs\loveproj\details.php on line 10
+[02-Nov-2025 13:37:55 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 71
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 71
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 72
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 93
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 93
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined variable $remamt in C:\xampp\htdocs\loveproj\details.php on line 97
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 98
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 100
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 100
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Undefined variable $resarr in C:\xampp\htdocs\loveproj\details.php on line 103
+[02-Nov-2025 13:37:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\loveproj\details.php on line 103
+[02-Nov-2025 13:40:07 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:50:05 Europe/Berlin] Database error: Unknown column 'blogid' in 'where clause'
+[02-Nov-2025 13:51:01 Europe/Berlin] PHP Warning:  Undefined array key "title" in C:\xampp\htdocs\loveproj\details.php on line 48
+[02-Nov-2025 13:51:01 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\loveproj\details.php on line 49
+[02-Nov-2025 13:51:01 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\loveproj\details.php on line 50
+[02-Nov-2025 13:51:01 Europe/Berlin] PHP Warning:  Undefined array key "title" in C:\xampp\htdocs\loveproj\details.php on line 50
+[02-Nov-2025 13:51:01 Europe/Berlin] PHP Warning:  Undefined array key "content" in C:\xampp\htdocs\loveproj\details.php on line 52
+[02-Nov-2025 13:51:30 Europe/Berlin] PHP Warning:  Undefined array key "image" in C:\xampp\htdocs\loveproj\details.php on line 50
+[02-Nov-2025 13:51:30 Europe/Berlin] PHP Warning:  Undefined array key "title" in C:\xampp\htdocs\loveproj\details.php on line 50
+[02-Nov-2025 13:51:30 Europe/Berlin] PHP Warning:  Undefined array key "content" in C:\xampp\htdocs\loveproj\details.php on line 52
+[02-Nov-2025 13:51:55 Europe/Berlin] PHP Warning:  Undefined array key "title" in C:\xampp\htdocs\loveproj\details.php on line 50
+[02-Nov-2025 13:51:55 Europe/Berlin] PHP Warning:  Undefined array key "content" in C:\xampp\htdocs\loveproj\details.php on line 52
+[02-Nov-2025 13:52:13 Europe/Berlin] PHP Warning:  Undefined array key "content" in C:\xampp\htdocs\loveproj\details.php on line 52
+[02-Nov-2025 13:52:24 Europe/Berlin] PHP Warning:  Undefined array key "content" in C:\xampp\htdocs\loveproj\details.php on line 52
+[02-Nov-2025 14:07:06 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\loveproj\details.php on line 48
+[02-Nov-2025 14:07:06 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\loveproj\details.php on line 48
+[02-Nov-2025 14:07:08 Europe/Berlin] PHP Warning:  Undefined array key 0 in C:\xampp\htdocs\loveproj\details.php on line 48
+[02-Nov-2025 14:07:08 Europe/Berlin] PHP Warning:  Undefined array key 1 in C:\xampp\htdocs\loveproj\details.php on line 48
+[02-Nov-2025 14:41:09 Europe/Berlin] Database error: Invalid blog ID.
+[02-Nov-2025 14:48:56 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's annual Diwali bash gave a glimpse into Gen Z's love for bold and edgy fashi...' at line 2
+[02-Nov-2025 14:49:34 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's annual Diwali bash gave a glimpse into Gen Z love for bold and edgy fashion...' at line 2
+[02-Nov-2025 15:06:44 Europe/Berlin] Database error: Table 'database.comments' doesn't exist
+[02-Nov-2025 15:06:53 Europe/Berlin] Database error: Table 'database.comments' doesn't exist
+[02-Nov-2025 16:30:35 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's wedding venue, a royal wellness sanctuary','Katrina Kaif and Vicky Kaushal ...' at line 2
+[02-Nov-2025 17:05:06 Europe/Berlin] PHP Warning:  Undefined array key 9 in C:\xampp\htdocs\loveproj\singleblog.php on line 49
+[02-Nov-2025 17:05:06 Europe/Berlin] PHP Warning:  Undefined array key 9 in C:\xampp\htdocs\loveproj\singleblog.php on line 49
+[02-Nov-2025 17:05:06 Europe/Berlin] PHP Warning:  Undefined array key 9 in C:\xampp\htdocs\loveproj\singleblog.php on line 49
+[02-Nov-2025 17:39:00 Europe/Berlin] Database error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 's property boom?','After years of luxury-led projects, India's real estate de...' at line 2
+[02-Nov-2025 18:13:55 Europe/Berlin] Database error: Duplicate entry '7889789789' for key 'PRIMARY'
+[02-Nov-2025 18:14:08 Europe/Berlin] Database error: Duplicate entry '998989898' for key 'PRIMARY'
